@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "logo": "layout",
+    "title": "Fontend Engineer",
+    "description": "Frontend Engineer with 8 years of experience creating dynamic and responsive user interfaces for web applications. Proficient in HTML, CSS, and JavaScript, with a strong focus on modern frameworks such as React and VueJS. Proven track record of collaborating with cross-functional teams to deliver high-quality, intuitive user experiences. Passionate about staying current with industry trends and continuously enhancing skills to drive innovation in frontend development."
+  },
+  {
+    "id": 2,
+    "logo": "coffee",
+    "title": "Backend Engineer",
+    "description": "With 6 years of experience as a Backend Engineer, I designed, developed, and maintained robust server-side applications, ensuring seamless functionality and optimal performance. Collaborated with cross-functional teams to analyze project requirements and implement scalable solutions. Proficient in programming languages such as Java and Node.js, I focused on API integration and system architecture to create efficient and secure backend systems."
+  },
+  {
+    "id": 3,
+    "logo": "smartphone",
+    "title": "Mobile App Engineer",
+    "description": "With 3 years of experience in Mobile App Development. I developed a cutting-edge mobile application for IOS and Android platforms. Proficient in coding, debugging, and optimizing mobile applications to deliver seamless user experiences."
+  }
+]

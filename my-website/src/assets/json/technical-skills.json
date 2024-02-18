@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "logo": "code",
+    "title": "Programming Languages and Frameworks",
+    "description": "HTML, CSS, SASS, TailwindCSS, Java, Springboot Framework, Spring MVC, NodeJS, Javascript, Typescript, jQuery, VueJS, React Native, ReactJS, Flutter, Quasar Framework, Highcharts"
+  },
+  {
+    "id": 2,
+    "logo": "codesandbox",
+    "title": "Infrastructure and Deployments",
+    "description": "Version Control System, Git Flow, Linux Terminal Commands, AWS Deployment, Digital Ocean Wordpress and App Deployment, Vercel App Deployment"
+  },
+  {
+    "id": 3,
+    "logo": "database",
+    "title": "Database",
+    "description": "MySQL, Postgres, NoSQL, and Firebase Firestore"
+  }
+]

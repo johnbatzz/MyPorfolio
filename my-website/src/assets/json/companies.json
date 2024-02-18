@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "iConcept Global",
+    "position": "Wordpress and Mobile App Developer",
+    "tenure": "March 2015 - July 2015",
+    "website": "https://www.iconcept.com.ph",
+    "textColor": "#450a0a"
+  },
+  {
+    "id": 2,
+    "name": "DeepData Inc.",
+    "position": "Sr. Software Engineer/Technical Lead",
+    "tenure": "2015 - 2021",
+    "website": "https://www.deepdata.com",
+    "textColor": "#172554"
+  },
+  {
+    "id": 3,
+    "name": "Freelancer at Knocard",
+    "position": "Mobile App Developer",
+    "tenure": "2019 - 2020",
+    "website": "https://www.knocard.com",
+    "textColor": "#1e9bcd"
+  },
+  {
+    "id": 4,
+    "name": "HawodTech Solutions",
+    "position": "Sr. Frontend Developer",
+    "tenure": "2021 - 2022",
+    "website": "https://hawodtechsolutions.com",
+    "textColor": "#007701"
+  },
+  {
+    "id": 5,
+    "name": "LegalMatch Phlippines",
+    "position": "Sr. Frontend/Fullstack Developer",
+    "tenure": "2022 - 2024",
+    "website": "https://legalmatch.ph",
+    "textColor": "#e8a713"
+  }
+]

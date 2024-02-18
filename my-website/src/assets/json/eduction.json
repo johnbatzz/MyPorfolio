@@ -1,0 +1,24 @@
+
+[
+    {
+        "id": 1,
+        "schoolYear": "2003 - 2004",
+        "schoolName": "Mindanao State University - Naawan",
+        "address": "Naawan, Philippines",
+        "summary": "I finished my Secondary Education at Mindanao State University Naawan. This was the first time I started using computer by playing computer games like Counter Strike and Dota I."
+    },
+    {
+        "id": 2,
+        "schoolYear": "2005 - 2006",
+        "schoolName": "Asian College of Science and Technology",
+        "address": "Cagayan De Oro City, Philippines",
+        "summary": "I finished my 2 years Vocational Course Electronics and Componter Technology. This was the first time I started loving computer programming and computer troubleshooting. I was awarded as Best Technician of the year."
+    },
+    {
+      "id": 3,
+      "schoolYear": "2014 - 2015",
+      "schoolName": "Pambayang Dalubhasaan ng Marilao",
+      "address": "Marilao Bulacan, Philippines",
+      "summary": "I finished my Bachelors of Science in Information Technology. I continue studying computer programming to pursue my passion in software development. I was awarded as Best Capstone of the year."
+    }
+]
