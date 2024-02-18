@@ -3,18 +3,18 @@
     "id": 1,
     "logo": "",
     "title": "Data Visualization",
-    "description": "Completion Design is one of the best features that I have work on <br/> and I am very proud of during my tenure in DeepData Company."
+    "description": "<a href='https://deepdata.com/completions-engineer/' target='_blank' style='color: #ca8a04; font-weight: bold; font-size: 20px;'>Completion Design<a/> is one of the best features that I have work on <br/> and I am very proud of during my tenure in DeepData Company."
   },
   {
     "id": 2,
     "logo": "",
     "title": "Mobile Application",
-    "description": "Knocard was my first flutter app to ever develop as my side project. <br/> I develop the app from scratch and do almost all of the <br/> features added to the app."
+    "description": "<a href='https://www.knocard.com/' target='_blank' style='color: #1e9bcd; font-weight: bold; font-size: 20px;'>Knocard</a> was my first flutter app to ever develop as my side project. <br/> I develop the app from scratch and do almost all of the <br/> features added to the app."
   },
   {
     "id": 3,
     "logo": "",
     "title": "Websites Performance Enhancements",
-    "description": "This is my recent project working with performance enhancements <br/> at LegalMatch Philippines web pages."
+    "description": "This is my recent project working with performance enhancements <br/> at <a  href='https://www.legalmatch.com/law-library/' target='_blank' style='color: #e8a713; font-weight: bold; font-size: 20px;'>LegalMatch Philippines<a/> web pages. It improves for almost 100% from the previous performance."
   }
 ]

@@ -9,7 +9,7 @@ export default function Experiences(props: ExperiencesProps) {
 
     const { experienceDetails } = props;
     return (
-        <section className="py-10 md:py-16">
+        <section id="overview" className="py-10 md:py-16 experiences">
 
             <div className="container max-w-screen-xl mx-auto px-4">
                 <h1 className="font-medium text-gray-700 text-3xl md:text-4xl mb-5 text-white">Overview</h1>

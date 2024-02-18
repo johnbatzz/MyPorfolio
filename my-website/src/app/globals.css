@@ -37,5 +37,5 @@ body {
   @apply bg-[#282828];
  }
 section, hr {
-  @apply bg-[#242629] flex w-[80%] mx-auto;
+  @apply bg-[#242629] flex w-full md:w-[80%] mx-auto;
 }

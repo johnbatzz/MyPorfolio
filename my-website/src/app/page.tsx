@@ -12,20 +12,22 @@ import Education from "@/components/education"
 import CompanyExperiences from "@/components/companies"
 import Footer from "@/components/footer"
 import TechnicalSkills from "@/components/technical-skills"
+import { Nav } from "@/components/nav/navigation"
 export default function Home() {
   return (
-    <main>
+    <main id="top">
+      <Nav logo={logo} />
       <ShortDesc 
-        logo={logo} 
+        logo={logo}
         profile={profile}
         name='John Andrew Batulan'
         position="Senior Software Engineer"
-      description="I have a passion for software. I enjoy creating tools and applications that solve problems and make life easier for people."
+        description="I have a passion for software. I enjoy creating tools and applications that solve problems and make life easier for people."
       />
       <hr/>
       <Experiences experienceDetails={ExperienceDetails} />
       <hr/>
-      <TechnicalSkills technicalSkills={TechnicalSkillsData} />
+      {/* <TechnicalSkills technicalSkills={TechnicalSkillsData} /> */}
       <hr />
       <Portfolio portfolio={PortfolioData} />
       <hr />
@@ -35,5 +37,5 @@ export default function Home() {
       <hr/>
       <Footer/>
     </main>
-  );
+  )
 }

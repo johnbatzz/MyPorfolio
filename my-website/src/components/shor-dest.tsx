@@ -2,22 +2,11 @@ import { ProfileInfo } from "@/models/ProfileInfo"
 import Image from "next/image"
 
 export default function ShortDesc(props: ProfileInfo) {
-    const {logo, profile, name, position, description} = props
+    const {profile, name, position, description} = props
     return (
-        <section className="py-10 md:py-16">
+        <section id="home" className="py-10 md:py-16 short-desc">
 
             <div className="container max-w-screen-xl mx-auto px-4">
-
-                <nav className="flex items-center justify-between mb-40">
-                    <Image
-                        src={logo}
-                        alt="Logo"
-                        width={61}
-                        height={41}
-                    />
-
-                    <button className="px-7 py-3 md:px-9 md:py-4 bg-white font-medium md:font-semibold text-gray-700 text-md rounded-md hover:bg-gray-700 hover:text-white transition ease-linear duration-500">Get my CV</button>
-                </nav>
 
                 <div className="text-center">
                     <div className="flex justify-center mb-16">

@@ -7,7 +7,7 @@ interface CompanyExperiencesProps {
 export default function CompanyExperiences(props: CompanyExperiencesProps) {
     const { experiences } = props
     return (
-        <section className="py-10 md:py-16">
+        <section id="experiences" className="py-10 md:py-16 company-exp">
 
             <div className="container max-w-screen-xl mx-auto px-4">
 

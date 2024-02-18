@@ -7,7 +7,7 @@ interface EducationProps {
 export default function Education(props: EducationProps) {
     const { education } = props
     return (
-        <section className="py-10 md:py-16">
+        <section id="education" className="py-10 md:py-16 education">
 
             <div className="container max-w-screen-xl mx-auto px-4">
 
